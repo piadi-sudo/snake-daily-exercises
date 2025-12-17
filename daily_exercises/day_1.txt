@@ -1,21 +1,33 @@
-o EXERCISES (day 1)
+||EXERCISES (day 1)
   
   - mod the looks of your linux mint(like background, dock position ,theme ecc)
 
+
+
   - download and learn what they do:
+
     -/ curl
     
     -/ wget
     
     -/ git
   
+
+
   - learn to use the "|" pipe 
+
+
 
   - learn to use the command grep
 
+
+
   - learn to use "&&" to concatenate commands
 
-  - download vscodim (not vscode) and:
+
+
+  - download vscodium (not vscode) and:
+
     -/ install the c# extension
     -/ install the .net
 
