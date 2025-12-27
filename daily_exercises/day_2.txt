@@ -1,0 +1,27 @@
+||EXERCISES (day 2)
+  
+  - install localsend
+  
+  - learn to use the "|" pipe 
+
+  - learn to use the command grep
+
+
+
+  - learn what bash and zsh are
+
+  - learn what tty is
+
+  - and why a terminal is called terminal emulator
+
+  
+  -learn to use pkill to kill process
+
+
+
+  -learn to use chmod +x
+
+
+that's all for today, have fun!
+
+
